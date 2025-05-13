@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//40m
 using namespace std;
 int n;
 vector<long long> val;
