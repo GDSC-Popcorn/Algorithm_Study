@@ -18,9 +18,9 @@
 ## 📍 Convention
 ### 🪾 브랜치 및 PR
 ```
-스터디 주차_몇 번째?_이름
-ex) Week1_1_MinwooJe
-ex) Week1_3_MinwooJe
+스터디 주차_이름
+ex) Week1_MinwooJe
+ex) Week1_MinwooJe
 ```
 ### 👾 커밋
 ```
