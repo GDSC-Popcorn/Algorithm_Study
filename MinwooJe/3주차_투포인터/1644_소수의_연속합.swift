@@ -5,7 +5,7 @@ let primes = getPrimes(n)
 var result = 0
 
 // n이하의 소수가 존재하지 않는다면 (ex. n == 1) 실행하지 않음.
-if primes.isEmpty! {
+if !primes.isEmpty {
     var r = 0
     var sum = primes[0]
 
